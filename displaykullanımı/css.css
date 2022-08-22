@@ -1,0 +1,14 @@
+.unicontentdivbody {
+    display: flex;
+    justify-content: center;
+   
+}
+
+.unicontentbox1 {
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    background-color: aqua;
+    font-size: 100px;
+}
+
